@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning to analise big data
 - 💞️ I’m looking to collaborate on Data Competition
 - 📫 How to reach me: i@love-jazz.ru
-- 😄 Pronouns: Russian
 - ⚡ Fun fact: I'm  a musician, i play on trumpet and piano.
